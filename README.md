@@ -4,7 +4,7 @@
 
 ---
 
-Software Engineer with 1.5+ years building AI-powered platforms and full-stack systems.  
+Software Engineer with 2+ years building AI-powered platforms and full-stack systems.  
 I specialize in bridging traditional engineering with modern AI — from fine-tuned LLMs to multi-agent automation pipelines.  
 M.Tech in Artificial Intelligence · Aligarh Muslim University · Currently at [@Sofyrus](https://github.com/Sofyrus) Technologies.
 
